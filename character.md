@@ -1,8 +1,8 @@
 # Illena, Paladin/Warlock
 
-## Race 
+## Race 
 
-(Variant Human)[http://http://dnd5e.wikia.com/wiki/Human]
+[Variant Human](http://http://dnd5e.wikia.com/wiki/Human)
 
 ## Ressources
 
