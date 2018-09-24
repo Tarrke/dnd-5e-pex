@@ -10,3 +10,6 @@ Notes for the new DnD 5e Campain
 * Toto by Baptiste
 * Titi by Thomas
 * Tutu by Mike
+
+## Notes
+
