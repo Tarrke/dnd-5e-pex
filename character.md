@@ -100,6 +100,8 @@ Illena, Human Female Paladin 2/Warlock 1
     * [Otherwordly Patron](http://dnd5e.wikia.com/wiki/Warlock#Otherworldly_Patron)
         * Raven Queen or Hexblade ???
     * [Pact Magic](http://dnd5e.wikia.com/wiki/Warlock#Pact_Magic)
+        * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
+        * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
 ## Future
 
 4. Warlock (2)
