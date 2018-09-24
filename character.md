@@ -13,8 +13,16 @@
 
 ## Classes
 
-* [Paladin](http://dnd5e.wikia.com/wiki/Paladin)
-* [Warlock](http://dnd5e.wikia.com/wiki/Warlock)
+* [Paladin](http://dnd5e.wikia.com/wiki/Paladin) => 12
+* [Warlock](http://dnd5e.wikia.com/wiki/Warlock) => 8
+
+## Levels
+
+1. Paladin
+  un text à la noix
+2. Paladin
+  un autre text à la noix
+3. Warlock
 
 ## Ressources
 
