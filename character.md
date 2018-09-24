@@ -72,6 +72,35 @@
     * [Divine Health](http://dnd5e.wikia.com/wiki/Paladin#Divine_Health) => *Immune to disease*
 5. Paladin (4)
     * Ability Score Improvment => Feat : Polearm Master
+6. Paladin (5)
+    * Extra Attack
+7. Paladin (6)
+8. Paladin (7)
+9. Warlock (2)
+10. Warlock (3)
+
+## Spells 
+
+### Notes
+
+So for Cantrips (you'll get 6, 3 of which can be from any classes' spellbook):
+
+Warlock: 
+* [Booming Blade](http://dnd5e.wikia.com/wiki/Booming_Blade) (You'll have to go SCAG for this) 
+* Eldritch Blast 
+* Either Prestidigitation or Mage Hand to Taste
+
+Others: Guidance will probably be useful throughout your entire adventuring life. Shillelagh as mentioned is a good pick for this build Spare the Dying is not bad or you could pick up something else to taste.
+
+And now for the long term stuff, Warlock Invocations (By 8th level you'll have 4 so here are 4):
+
+Devil's Sight - Not only good for general utility, also sets up eternal advantage for you and disadvantage for enemies (and unlucky allies close by) after you start casting Darkness on your Quarterstaff. 
+
+Book of Ancient Secrets - Useful for picking up Find Familiar, which can net you an Owl, which is a good way of getting Advantage on your first attack every turn. 
+
+Fiendish Vigor - Start every combat with 8 temporary Hit Points, I like it! 
+
+Agonizing Blast - Lets make sure our ranged attack really hurts.
 
 ## Ressources
 
