@@ -21,10 +21,10 @@ Illena, Human Female Paladin 2/Warlock 1
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
     * Lvl 1 (2 known, 1 slot):
-        * 
+        * TODO
 
 * Spells Paladin (6 known, 2 slots):
-    * 
+    * TODO
 
 ## Race 
 
@@ -42,6 +42,8 @@ Illena, Human Female Paladin 2/Warlock 1
 * Languages: You can speak, read, and write Common and one extra [language](http://dnd5e.wikia.com/wiki/Languages) of your choice.
     * Common
     * ???
+
+## Background
 
 ## Classes
 
