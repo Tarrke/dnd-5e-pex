@@ -4,29 +4,44 @@
 
 Illena, Human Female Paladin 2/Warlock 1
 
-* STR :
-* DEX :
-* CON :
-* INT :
-* WIS :
-* CHA :
+* STR: 13 (+1)
+* DEX: 12 (+1)
+* CON: 17 (+4)
+* INT: 12 (+1)
+* WIS: 12 (+1)
+* CHA: 19 (+5)
+* PROF: 2
 
-* AC : 
+* AC: 18
 
-* Spells :
+* PV: 31
+
+* Spells Warlock:
     * Cantrip (2 known)
-    * Lvl 1 (2 known, 1 slot)
+        * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
+        * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
+    * Lvl 1 (2 known, 1 slot):
+        * 
+
+* Spells Paladin (6 known, 2 slots):
+    * 
 
 ## Race 
 
 [Variant Human](http://http://dnd5e.wikia.com/wiki/Human)
 
 * Ability Score Increase: Two different ability scores of your choice increase by 1.
+    * CON: 16 => 17
+    * CHA: 18 => 19
 * Skills: You gain proficiency in one skill of your choice.
-* Feat: You gain one feat of your choice. => [War Caster](http://dnd5e.wikia.com/wiki/Feats)
+    * ???
+* Feat: You gain one feat of your choice.
+    * [War Caster](http://dnd5e.wikia.com/wiki/Feats)
 * Size: Medium.
 * Speed: 30 feet.
 * Languages: You can speak, read, and write Common and one extra [language](http://dnd5e.wikia.com/wiki/Languages) of your choice.
+    * Common
+    * ???
 
 ## Classes
 
@@ -40,20 +55,15 @@ Illena, Human Female Paladin 2/Warlock 1
         * Skills : 2 from Athletics, **Insight**, Intimidation, Medicine, Persuasion, **Religion**
 * [Warlock](http://dnd5e.wikia.com/wiki/Warlock) => 8
     * Hit Dice : d8
-    * Proficiencies
-        * Armor : Light Armor
-        * Weapons : Simple Weapons
-        * Tools : none
-        * Saving Throws : Wisdom, Charisma
-        * Skills : 2 from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+
 ## Stats (Initials)
 
-* STR :
-* DEX :
-* CON :
-* INT :
-* WIS :
-* CHA :
+* STR : 13 (3/6/4/2)
+* DEX : 12 (3/5/1/4)
+* CON : 16 (6/5/5/2)
+* INT : 12 (4/2/5/3)
+* WIS : 12 (1/4/5/3)
+* CHA : 18 (6/6/6/1)
 
 ## Stuff
 
@@ -71,7 +81,7 @@ Illena, Human Female Paladin 2/Warlock 1
     * 6 lbs
 
 * Chain Mail :
-    * AC: 6
+    * AC: 16
     * Min STR: 13
     * 55 lbs
     * Stealth: disaventage
@@ -80,7 +90,7 @@ Illena, Human Female Paladin 2/Warlock 1
 ## Levels
 
 1. Paladin (1)
-    * HD: 10 + ??
+    * HD: 10 + 4
     * Equipment :
         * A [Quaterstaff](https://roll20.net/compendium/dnd5e/Items:Quarterstaff/#h-Quarterstaff)
         * A shield
@@ -88,7 +98,7 @@ Illena, Human Female Paladin 2/Warlock 1
     * [Divine Sense](http://dnd5e.wikia.com/wiki/Paladin#Divine_Sense)
     * [Lay on Hands](http://dnd5e.wikia.com/wiki/Paladin#Lay_on_Hands)
 2. Paladin (2)
-    * HD: ?? + ??
+    * HD: 6 + 4
     * [Fighting Style](http://dnd5e.wikia.com/wiki/Paladin#Fighting_Style) => Dueling (*+2 dmg rolls*)
     * [Divine Smite](http://dnd5e.wikia.com/wiki/Paladin#Divine_Smite) 1d8 radiant dmg + 1d8 / spell level slot (max 5d8) -- Undeads or Fiends +1d8
     * Spells : 
@@ -96,12 +106,13 @@ Illena, Human Female Paladin 2/Warlock 1
         * Spell Attack Modifier : proficiency + CHA
         * 2 1st lvl
 3. Warlock (1)
-    * HD: ?? + ??
+    * HD: 3 + 4
     * [Otherwordly Patron](http://dnd5e.wikia.com/wiki/Warlock#Otherworldly_Patron)
-        * Raven Queen or Hexblade ???
+        * Hexblade => TODO
     * [Pact Magic](http://dnd5e.wikia.com/wiki/Warlock#Pact_Magic)
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
+
 ## Future
 
 4. Warlock (2)
