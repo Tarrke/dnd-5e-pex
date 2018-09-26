@@ -28,6 +28,15 @@ Illena, Human Female Paladin 2/Warlock 1
 * Spells Paladin (6 known, 2 slots):
     * TODO
 
+* Feats:
+    * [War Caster](http://dnd5e.wikia.com/wiki/Feats)
+        * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+        * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+        * When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+    * [Polearm Master](http://dnd5e.wikia.com/wiki/Feats)
+        * When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary weapon. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage.
+        * While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
+
 ## Race 
 
 [Variant Human](http://http://dnd5e.wikia.com/wiki/Human)
@@ -162,12 +171,24 @@ Illena, Human Female Paladin 2/Warlock 1
 * [Mold Earth](http://dnd5e.wikia.com/wiki/Mold_Earth) -- Great
 * [Vicious Mockery](http://dnd5e.wikia.com/wiki/Vicious_Mockery) -- Bof
 
-2. Warlock Invocations (By 8th level you'll have 4 so here are 4):
+2. Warlock Invocations :
     * Devil's Sight - Not only good for general utility, also sets up eternal advantage for you and disadvantage for enemies (and unlucky allies close by) after you start casting Darkness on your Quarterstaff. 
     * Book of Ancient Secrets - Useful for picking up Find Familiar, which can net you an Owl, which is a good way of getting Advantage on your first attack every turn. 
     * Fiendish Vigor - Start every combat with 8 temporary Hit Points, I like it! 
     * Agonizing Blast - Lets make sure our ranged attack really hurts.
-    * Grasp of Hadar
+    * Grasp of Hadar => grap ennemy toward you while Eldritch Blast
+
+3. Spells Warlock
+    * *[Hex](http://dnd5e.wikia.com/wiki/Hex)*, [Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person), Comprehend Languages , *[Hellish Rebuke](http://dnd5e.wikia.com/wiki/Hellish_Rebuke)*
+    * [Invisibility](http://dnd5e.wikia.com/wiki/Invisibility), Misty Step, Mirror Image, Suggestion
+    * Counterspell, Dispel Magic, Fly, Major Image
+    * Banishment, Dimension Door
+    * Hold Monster
+
+4. Damage and abilities in figth
+    1. Attack (1) + Divine Smite: 1d6 + CHA + 2d8 (Spell Slot lvl 1)
+    2. (not now) Attack (2) + Divine Smite: 1d6 + CHA + 2d8 (Spell Slot lvl 1)
+    3. Attack Tip + Divine Smite: 1d4 + CHA + 2d8 (Spell Slot lvl 1)
 
 Ressource : https://www.reddit.com/r/dndnext/comments/8425fz/what_are_some_cool_warlock_cantrips/
 
