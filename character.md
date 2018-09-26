@@ -23,16 +23,14 @@ Illena, Human Female Paladin 2/Warlock 1
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
     * Lvl 1 (2 known, 1 slot):
-        * TODO
+        * [Hex](http://dnd5e.wikia.com/wiki/Hex)
+        * [Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person)
 
 * Spells Paladin (6 known, 2 slots):
-    * TODO
+    * [Sleep](http://dnd5e.wikia.com/wiki/Sleep)
+    * [Wrathful Smite](http://dnd5e.wikia.com/wiki/Wrathful_Smite)
 
 * Feats:
-    * [War Caster](http://dnd5e.wikia.com/wiki/Feats)
-        * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
-        * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
-        * When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
     * [Polearm Master](http://dnd5e.wikia.com/wiki/Feats)
         * When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary weapon. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage.
         * While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
@@ -121,7 +119,16 @@ Illena, Human Female Paladin 2/Warlock 1
 3. Warlock (1)
     * HD: 3 + 4
     * [Otherwordly Patron](http://dnd5e.wikia.com/wiki/Warlock#Otherworldly_Patron)
-        * Hexblade => TODO
+        * Hexblade
+            * Hex Warrior:
+                * At 1st level, you gain proficiency with medium armor, shields, and martial weapons.
+                * Additionally, whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
+            * Hexblade's Curse
+                * Starting at 1st level, as a bonus action, choose one creature you can see within 30 feet of you. The curse ends early if the target dies, you die, or you are incapacitated. The target is cursed for 1 minute. Until the curse ends, you gain the following benefits:
+                * You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
+                * Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
+                * If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier.
+                * You can't use this feature again until you finish a short or long rest.
     * [Pact Magic](http://dnd5e.wikia.com/wiki/Warlock#Pact_Magic)
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
@@ -134,9 +141,14 @@ Illena, Human Female Paladin 2/Warlock 1
     * [Pact Boon](http://dnd5e.wikia.com/wiki/Warlock#Pact_Boon) => *Pact of the Tome*
 6. Paladin (3)
     * [Oath Of Vengeance](http://dnd5e.wikia.com/wiki/Paladin#Oath_of_Vengeance)
+        * [Bane](http://dnd5e.wikia.com/wiki/Bane)
+        * [Hunter's Mark](http://dnd5e.wikia.com/wiki/Hunter%27s_Mark)
     * [Divine Health](http://dnd5e.wikia.com/wiki/Paladin#Divine_Health) => *Immune to disease*
 7. Paladin (4)
-    * Ability Score Improvment => Feat : Polearm Master
+    * Ability Score Improvment => [War Caster](http://dnd5e.wikia.com/wiki/Feats)
+        * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+        * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+        * When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
 8. Paladin (5)
     * Extra Attack
 9. Paladin (6)
@@ -161,6 +173,7 @@ Illena, Human Female Paladin 2/Warlock 1
 
 * Thorn Whip || Eldritch Blast + grasp of hadar invocation
 * --[Booming Blade](http://dnd5e.wikia.com/wiki/Booming_Blade) (You'll have to go SCAG for this)--
+* [Green-Flame Blade](http://dnd5e.wikia.com/wiki/Green-Flame_Blade)
 * [Guidance](http://dnd5e.wikia.com/wiki/Guidance) -- ++
 * [Sacred flame](http://dnd5e.wikia.com/wiki/Sacred_Flame) -- Bof
 * [Prestidigitation](http://dnd5e.wikia.com/wiki/Prestidigitation)
@@ -179,7 +192,7 @@ Illena, Human Female Paladin 2/Warlock 1
     * Grasp of Hadar => grap ennemy toward you while Eldritch Blast
 
 3. Spells Warlock
-    * *[Hex](http://dnd5e.wikia.com/wiki/Hex)*, [Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person), Comprehend Languages , *[Hellish Rebuke](http://dnd5e.wikia.com/wiki/Hellish_Rebuke)*
+    * *[Hex](http://dnd5e.wikia.com/wiki/Hex)*, *[Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person)*, Comprehend Languages , [Hellish Rebuke](http://dnd5e.wikia.com/wiki/Hellish_Rebuke)
     * [Invisibility](http://dnd5e.wikia.com/wiki/Invisibility), Misty Step, Mirror Image, Suggestion
     * Counterspell, Dispel Magic, Fly, Major Image
     * Banishment, Dimension Door
