@@ -49,7 +49,7 @@
     * CON: 16 => 17
     * CHA: 18 => 19
 * Skills: You gain proficiency in one skill of your choice.
-    * ???
+    * Investigation
 * Feat: You gain one feat of your choice.
     * [Polearm Master](http://dnd5e.wikia.com/wiki/Feats)
 * Size: Medium.
