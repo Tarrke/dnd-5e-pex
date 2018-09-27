@@ -23,7 +23,11 @@
     * Intimidation (CHA)
     * Persuasion (CHA)
     * Investigation (INT)
-
+* Feats:
+    * [Polearm Master](http://dnd5e.wikia.com/wiki/Feats)
+        * When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary weapon. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage.
+        * While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
+---
 * Spells Warlock:
     * Cantrip (2 known)
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
@@ -35,11 +39,12 @@
 * Spells Paladin (6 known, 2 slots):
     * [Sleep](http://dnd5e.wikia.com/wiki/Sleep)
     * [Wrathful Smite](http://dnd5e.wikia.com/wiki/Wrathful_Smite)
-
-* Feats:
-    * [Polearm Master](http://dnd5e.wikia.com/wiki/Feats)
-        * When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary weapon. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage.
-        * While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
+---
+* Language:
+    * Common
+    * ???
+    * ???
+    * ???
 
 ## Race 
 
