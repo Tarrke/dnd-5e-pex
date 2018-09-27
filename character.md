@@ -14,9 +14,18 @@ Illena, Human Female Paladin 2/Warlock 1
 
 
 * AC: 18
+    * Armor: 16
+    * Shield: 2
 
 
 * PV: 31
+
+* Skills:
+    * Insight (WIS)
+    * Religion (INT)
+    * Intimidation (CHA)
+    * Persuasion (CHA)
+    * Investigation (INT)
 
 * Spells Warlock:
     * Cantrip (2 known)
@@ -54,6 +63,20 @@ Illena, Human Female Paladin 2/Warlock 1
 
 ## Background
 
+* [Acolyte](http://dnd5e.wikia.com/wiki/Acolyte) de Hoar
+    * Shelter of the Faithful : gain help (heal and care) and support at temples
+    * Specific link to a special temple of Hoar
+    * I am tolerant of other faiths and respect the worship of other gods.
+    * I trust that my deity will guide my actions, I have faith that if I work hard, things will go well.
+    * I will do anything to avenge the temple where I served.
+    * I am inflexible in my thinking.
+    * Skills:
+        * Insight
+        * Religion
+    * Languages:
+        * ???
+        * ???
+
 ## Classes
 
 * [Paladin](http://dnd5e.wikia.com/wiki/Paladin) => 12
@@ -63,7 +86,7 @@ Illena, Human Female Paladin 2/Warlock 1
         * Weapons : simple, martial
         * Tools : none
         * Saving Throws : Wisdom, Charisma
-        * Skills : 2 from Athletics, **Insight**, Intimidation, Medicine, Persuasion, **Religion**
+        * Skills : 2 from Athletics, Insight, **Intimidation**, Medicine, **Persuasion**, Religion
 * [Warlock](http://dnd5e.wikia.com/wiki/Warlock) => 8
     * Hit Dice : d8
 
