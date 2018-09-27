@@ -17,6 +17,9 @@
     * Armor: 16
     * Shield: 2
 ---
+* Saves:
+    * Wisdom
+    * Charisma
 * Skills:
     * Insight (WIS)
     * Religion (INT)
@@ -45,6 +48,37 @@
     * ???
     * ???
     * ???
+
+## Stuff
+
+* Quaterstaff (Arcane Focus):
+    * melee weapon (simple, staff)
+    * Category: Items
+    * Damage: 1d6
+    * Damage Type: Bludgeoning
+    * Item Rarity: Standard
+    * Properties: Versatile
+    * Weight: 4 lbs
+
+* Shield (Divine Focus):
+    * AC: +2
+    * 6 lbs
+
+* Chain Mail :
+    * AC: 16
+    * Min STR: 13
+    * 55 lbs
+    * Stealth: disaventage
+    * On: 10 minutes, Off: 5 minutes
+
+* Backpack
+* Bedroll
+* mess kit
+* tinderbox
+* 10 torches
+* 10 days of rations
+* waterskin
+* 50 feet of hempen rope 
 
 ## Race 
 
@@ -100,28 +134,6 @@
 * INT: 12 (4/2/5/3)
 * WIS: 12 (1/4/5/3)
 * CHA: 18 (6/6/6/1)
-
-## Stuff
-
-* Quaterstaff (Arcane Focus):
-    * melee weapon (simple, staff)
-    * Category: Items
-    * Damage: 1d6
-    * Damage Type: Bludgeoning
-    * Item Rarity: Standard
-    * Properties: Versatile
-    * Weight: 4 lbs
-
-* Shield (Divine Focus):
-    * AC: +2
-    * 6 lbs
-
-* Chain Mail :
-    * AC: 16
-    * Min STR: 13
-    * 55 lbs
-    * Stealth: disaventage
-    * On: 10 minutes, Off: 5 minutes
 
 ## Levels
 
