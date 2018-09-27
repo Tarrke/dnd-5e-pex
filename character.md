@@ -2,7 +2,7 @@
 
 ## Resume
 
-Illena, Human Female Paladin 2/Warlock 1
+**Illena**, Human Female Paladin 2/Warlock 1
 
 * STR: 13 (+1)
 * DEX: 12 (+1)
@@ -11,16 +11,12 @@ Illena, Human Female Paladin 2/Warlock 1
 * WIS: 12 (+1)
 * CHA: 19 (+5)
 * PROF: 2
-
 ---
-
+* PV: 31
 * AC: 18
     * Armor: 16
     * Shield: 2
-
 ---
-
-* PV: 31
 
 * Skills:
     * Insight (WIS)
