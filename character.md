@@ -92,12 +92,12 @@ Illena, Human Female Paladin 2/Warlock 1
 
 ## Stats (Initials)
 
-* STR : 13 (3/6/4/2)
-* DEX : 12 (3/5/1/4)
-* CON : 16 (6/5/5/2)
-* INT : 12 (4/2/5/3)
-* WIS : 12 (1/4/5/3)
-* CHA : 18 (6/6/6/1)
+* STR: 13 (3/6/4/2)
+* DEX: 12 (3/5/1/4)
+* CON: 16 (6/5/5/2)
+* INT: 12 (4/2/5/3)
+* WIS: 12 (1/4/5/3)
+* CHA: 18 (6/6/6/1)
 
 ## Stuff
 
@@ -108,7 +108,7 @@ Illena, Human Female Paladin 2/Warlock 1
     * Damage Type: Bludgeoning
     * Item Rarity: Standard
     * Properties: Versatile
-    * Weight: 4
+    * Weight: 4 lbs
 
 * Shield (Divine Focus):
     * AC: +2
