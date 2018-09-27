@@ -1,4 +1,4 @@
-# Illena, Paladin/Warlock
+# Illena, Palock
 
 ## Resume
 
@@ -17,7 +17,6 @@
     * Armor: 16
     * Shield: 2
 ---
-
 * Skills:
     * Insight (WIS)
     * Religion (INT)
