@@ -12,11 +12,13 @@ Illena, Human Female Paladin 2/Warlock 1
 * CHA: 19 (+5)
 * PROF: 2
 
+---
 
 * AC: 18
     * Armor: 16
     * Shield: 2
 
+---
 
 * PV: 31
 
