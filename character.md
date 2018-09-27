@@ -32,7 +32,7 @@
         * While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
 ---
 * Spells Warlock:
-    * Cantrip (2 known)
+    * Cantrip (2 known):
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
     * Lvl 1 (2 known, 1 slot):
@@ -221,21 +221,21 @@
 * [Mold Earth](http://dnd5e.wikia.com/wiki/Mold_Earth) -- Great
 * [Vicious Mockery](http://dnd5e.wikia.com/wiki/Vicious_Mockery) -- Bof
 
-2. Warlock Invocations :
+2. Warlock Invocations:
     * Devil's Sight - Not only good for general utility, also sets up eternal advantage for you and disadvantage for enemies (and unlucky allies close by) after you start casting Darkness on your Quarterstaff. 
     * Book of Ancient Secrets - Useful for picking up Find Familiar, which can net you an Owl, which is a good way of getting Advantage on your first attack every turn. 
     * Fiendish Vigor - Start every combat with 8 temporary Hit Points, I like it! 
     * Agonizing Blast - Lets make sure our ranged attack really hurts.
     * Grasp of Hadar => grap ennemy toward you while Eldritch Blast
 
-3. Spells Warlock
+3. Spells Warlock:
     * *[Hex](http://dnd5e.wikia.com/wiki/Hex)*, *[Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person)*, Comprehend Languages , [Hellish Rebuke](http://dnd5e.wikia.com/wiki/Hellish_Rebuke)
     * [Invisibility](http://dnd5e.wikia.com/wiki/Invisibility), Misty Step, Mirror Image, Suggestion
     * Counterspell, Dispel Magic, Fly, Major Image
     * Banishment, Dimension Door
     * Hold Monster
 
-4. Damage and abilities in figth
+4. Damage and abilities in figth:
     1. Attack (1) + Divine Smite: 1d6 + CHA + 2d8 (Spell Slot lvl 1)
     2. (not now) Attack (2) + Divine Smite: 1d6 + CHA + 2d8 (Spell Slot lvl 1)
     3. Attack Tip + Divine Smite: 1d4 + CHA + 2d8 (Spell Slot lvl 1)
