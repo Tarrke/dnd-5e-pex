@@ -1,4 +1,4 @@
-# Illena, Palock
+# Illena, Pal-lock
 
 ## Resume
 
