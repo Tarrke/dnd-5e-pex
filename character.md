@@ -203,12 +203,15 @@
 6. Warlock (3)
     * [Pact Boon](http://dnd5e.wikia.com/wiki/Warlock#Pact_Boon) => *Pact of the Tome*
 7. Paladin (4)
-    * Ability Score Improvment => 
+    * Ability Score Improvment =>
 8. Paladin (5)
     * Extra Attack
 9. Warlock (4)
     * Ability Score Improvment =>
-10. Paladin (7)
+    * Cantrip 3
+        * [Minor illusion](http://dnd5e.wikia.com/wiki/Minor_Illusion)
+10. Paladin (6)
+    * [Aura of Protection](http://dnd5e.wikia.com/wiki/Paladin#Aura_of_Protection): whenever you or a friendly creature within *10 feet* of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus. At 18th level, the range of this aura increases to 30 feet.
 
 ## Spells 
 
@@ -270,3 +273,9 @@ Ressource : https://www.reddit.com/r/dndnext/comments/8425fz/what_are_some_cool_
 ## Ressources
 
 * https://www.reddit.com/r/dndnext/comments/6z2f93/to_serve_two_masters_al_legal_paladinwarlock/
+
+## ToDo
+
+* Card pour les différentes actions à vérifier en particulier
+    * Hexblade Curse
+    * Wow of emnity
