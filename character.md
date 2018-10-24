@@ -5,16 +5,16 @@
 **Illena**, Human Female Paladin 3/Warlock 1
 
 * STR: 13 (+1)
-* DEX: 12 (+1)
-* CON: 17 (+4)
-* INT: 12 (+1)
-* WIS: 12 (+1)
-* CHA: 19 (+5)
+* DEX: 10 (+0)
+* CON: 16 (+3)
+* INT:  8 (-1)
+* WIS: 10 (+0)
+* CHA: 16 (+3)
 * PROF: 3
 
 ---
 
-* PV: 43 ??
+* PV: 39
 * AC: 18
     * Armor: 16
     * Shield: 2
@@ -96,8 +96,8 @@
 [Variant Human](http://http://dnd5e.wikia.com/wiki/Human)
 
 * Ability Score Increase: Two different ability scores of your choice increase by 1.
-    * CON: 16 => 17
-    * CHA: 18 => 19
+    * CON: 15 => 16
+    * CHA: 15 => 16
 * Skills: You gain proficiency in one skill of your choice.
     * Investigation
 * Feat: You gain one feat of your choice.
@@ -140,16 +140,16 @@
 ## Stats (Initials)
 
 * STR: 13 (3/6/4/2)
-* DEX: 12 (3/5/1/4)
-* CON: 16 (6/5/5/2)
-* INT: 12 (4/2/5/3)
-* WIS: 12 (1/4/5/3)
-* CHA: 18 (6/6/6/1)
+* DEX: 10 (3/5/1/4)
+* CON: 15 (6/5/5/2)
+* INT:  8 (4/2/5/3)
+* WIS: 10 (1/4/5/3)
+* CHA: 15 (6/6/6/1)
 
 ## Levels
 
 1. Paladin (1)
-    * HD: 10 + 4
+    * HD: 10 + 3
     * Equipment :
         * A [Quaterstaff](https://roll20.net/compendium/dnd5e/Items:Quarterstaff/#h-Quarterstaff)
         * A shield
@@ -157,7 +157,7 @@
     * [Divine Sense](http://dnd5e.wikia.com/wiki/Paladin#Divine_Sense)
     * [Lay on Hands](http://dnd5e.wikia.com/wiki/Paladin#Lay_on_Hands)
 2. Paladin (2)
-    * HD: 6 + 4
+    * HD: 6 + 3
     * [Fighting Style](http://dnd5e.wikia.com/wiki/Paladin#Fighting_Style) => Dueling (*+2 dmg rolls*)
     * [Divine Smite](http://dnd5e.wikia.com/wiki/Paladin#Divine_Smite) 1d8 radiant dmg + 1d8 / spell level slot (max 5d8) -- Undeads or Fiends +1d8
     * Spells : 
@@ -165,7 +165,7 @@
         * Spell Attack Modifier : proficiency + CHA
         * 2 1st lvl
 3. Warlock (1)
-    * HD: 5 + 4
+    * HD: 5 + 3
     * [Otherwordly Patron](http://dnd5e.wikia.com/wiki/Warlock#Otherworldly_Patron)
         * Hexblade
             * Hex Warrior:
@@ -181,7 +181,7 @@
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
 4. Paladin (3)
-    * HD: 6 + 4
+    * HD: 6 + 3
     * [Oath Of Vengeance](http://dnd5e.wikia.com/wiki/Paladin#Oath_of_Vengeance)
         * Teneth :
             * **Fight the Greater Evil**: Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
