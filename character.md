@@ -2,7 +2,7 @@
 
 ## Resume
 
-**Illena**, Human Female Paladin 2/Warlock 1
+**Illena**, Human Female Paladin 3/Warlock 1
 
 * STR: 13 (+1)
 * DEX: 12 (+1)
@@ -10,28 +10,36 @@
 * INT: 12 (+1)
 * WIS: 12 (+1)
 * CHA: 19 (+5)
-* PROF: 2
+* PROF: 3
+
 ---
-* PV: 31
+
+* PV: 43 ??
 * AC: 18
     * Armor: 16
     * Shield: 2
+
 ---
+
 * Saves:
     * Wisdom
     * Charisma
+
 * Skills:
     * Insight (WIS)
     * Religion (INT)
     * Intimidation (CHA)
     * Persuasion (CHA)
     * Investigation (INT)
+
 * Feats:
    * [War Caster](http://dnd5e.wikia.com/wiki/Feats)
         * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
         * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
         * When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+
 ---
+
 * Spells Warlock:
     * Cantrip (2 known):
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
@@ -43,7 +51,9 @@
 * Spells Paladin (6 known, 2 slots):
     * [Sleep](http://dnd5e.wikia.com/wiki/Sleep)
     * [Wrathful Smite](http://dnd5e.wikia.com/wiki/Wrathful_Smite)
+
 ---
+
 * Language:
     * Common
     * ???
@@ -155,7 +165,7 @@
         * Spell Attack Modifier : proficiency + CHA
         * 2 1st lvl
 3. Warlock (1)
-    * HD: 3 + 4
+    * HD: 5 + 4
     * [Otherwordly Patron](http://dnd5e.wikia.com/wiki/Warlock#Otherworldly_Patron)
         * Hexblade
             * Hex Warrior:
@@ -170,23 +180,34 @@
     * [Pact Magic](http://dnd5e.wikia.com/wiki/Warlock#Pact_Magic)
         * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
         * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
+4. Paladin (3)
+    * HD: 6 + 4
+    * [Oath Of Vengeance](http://dnd5e.wikia.com/wiki/Paladin#Oath_of_Vengeance)
+        * Teneth :
+            * **Fight the Greater Evil**: Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+            * **No Mercy for the Wicked**: Ordinary foes might win my mercy, but my sworn enemies do not.
+            * **By Any Means Necessary**: My qualms can't get in the way of exterminating my foes.
+            * **Restitution**: If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
+        * Spells:
+            * [Bane](http://dnd5e.wikia.com/wiki/Bane)
+            * [Hunter's Mark](http://dnd5e.wikia.com/wiki/Hunter%27s_Mark)
+        * Channel Divinity
+            * **Abjure Enemy**: As an action, choose *one creature* within *60 feet* of you that you can see. That creature must make a *Wisdom saving throw*, unless it is immune to being frightened. *Fiends and undead have disadvantage on this saving throw*. On a failed save, the creature is frightened for 1 minute or until It takes any damage. While frightened,the creature's speed is 0, and It can't benefit from any bonus to its speed. On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.
+            * **Vow of Enmity**: As a *bonus action*, you can utter a vow of enmity against a creature you can see within 10 feet of you. *You gain advantage on attack rolls* against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.
+    * [Divine Health](http://dnd5e.wikia.com/wiki/Paladin#Divine_Health) => *Immune to disease*
 
 ## Future
 
-4. Warlock (2)
+5. Warlock (2)
     * [Eldrich Invocation](http://dnd5e.wikia.com/wiki/Warlock#Eldritch_Invocations)
-5. Warlock (3)
+6. Warlock (3)
     * [Pact Boon](http://dnd5e.wikia.com/wiki/Warlock#Pact_Boon) => *Pact of the Tome*
-6. Paladin (3)
-    * [Oath Of Vengeance](http://dnd5e.wikia.com/wiki/Paladin#Oath_of_Vengeance)
-        * [Bane](http://dnd5e.wikia.com/wiki/Bane)
-        * [Hunter's Mark](http://dnd5e.wikia.com/wiki/Hunter%27s_Mark)
-    * [Divine Health](http://dnd5e.wikia.com/wiki/Paladin#Divine_Health) => *Immune to disease*
 7. Paladin (4)
     * Ability Score Improvment => 
 8. Paladin (5)
     * Extra Attack
-9. Paladin (6)
+9. Warlock (4)
+    * Ability Score Improvment =>
 10. Paladin (7)
 
 ## Spells 
