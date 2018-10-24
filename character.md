@@ -56,9 +56,9 @@
 
 * Language:
     * Common
-    * ???
-    * ???
-    * ???
+    * Draconic
+    * Dwarf
+    * Gobelin
 
 ## Stuff
 
