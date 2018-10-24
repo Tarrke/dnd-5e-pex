@@ -106,7 +106,7 @@
 * Speed: 30 feet.
 * Languages: You can speak, read, and write Common and one extra [language](http://dnd5e.wikia.com/wiki/Languages) of your choice.
     * Common
-    * ???
+    * Draconic
 
 ## Background
 
@@ -121,8 +121,8 @@
         * Insight
         * Religion
     * Languages:
-        * ???
-        * ???
+        * Dwarf
+        * Gobelin
 
 ## Classes
 
