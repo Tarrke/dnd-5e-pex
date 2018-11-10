@@ -42,13 +42,13 @@
 
 * Spells Warlock:
   * Cantrip (2 known):
-  *[Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
-  *[Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
-  * Lvl 1 (2 known, 1 slot):
-  *[Hex](http://dnd5e.wikia.com/wiki/Hex)
-  *[Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person)
+    * [Eldritch Blast](http://dnd5e.wikia.com/wiki/Eldritch_Blast)
+    * [Mage Hand](http://dnd5e.wikia.com/wiki/Mage_Hand)
+  * Lvl 1 (2 known, 1 slot, 1st level):
+    * [Hex](http://dnd5e.wikia.com/wiki/Hex)
+    * [Charm Person](http://dnd5e.wikia.com/wiki/Charm_Person)
 
-* Spells Paladin (6 known, 2 slots):
+* Spells Paladin (4 prepared, 3 slots):
   * [Sleep](http://dnd5e.wikia.com/wiki/Sleep)
   * [Wrathful Smite](http://dnd5e.wikia.com/wiki/Wrathful_Smite)
 
@@ -129,11 +129,11 @@
 * [Paladin](http://dnd5e.wikia.com/wiki/Paladin) => 12
   * Hit Dice : d10 (med 6)
   * Proficiencies
-      * Armor : All armors
-      * Weapons : simple, martial
-      * Tools : none
-      * Saving Throws : Wisdom, Charisma
-      * Skills : 2 from Athletics, Insight, **Intimidation**, Medicine, **Persuasion**, Religion
+    * Armor : All armors
+    * Weapons : simple, martial
+    * Tools : none
+    * Saving Throws : Wisdom, Charisma
+    * Skills : 2 from Athletics, Insight, **Intimidation**, Medicine, **Persuasion**, Religion
 * [Warlock](http://dnd5e.wikia.com/wiki/Warlock) => 8
   * Hit Dice : d8 (med 5)
 
@@ -214,6 +214,24 @@
   * [Aura of Protection](http://dnd5e.wikia.com/wiki/Paladin#Aura_of_Protection): whenever you or a friendly creature within *10 feet* of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus. At 18th level, the range of this aura increases to 30 feet.
 
 ## Spells
+
+[Paladin Spell List](https://dnd5e.fandom.com/wiki/Paladin_Spells)
+  * Bless
+  * Ceremony
+  * Command
+  * Compelled Duel
+  * Cure Wounds
+  * Detect Evil and Good
+  * Detect Magic
+  * Detect Poison and Disease
+  * Divine Favor
+  * Heroism
+  * Protection from Evil and Good
+  * Purify Food and Water
+  * Searing Smith
+  * Shield of Faith
+  * Thunderous Smite
+  * Wrathful Smite
 
 ## Feats
 
